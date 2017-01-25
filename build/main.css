@@ -1,0 +1,15 @@
+$color-title: #333;
+h1{
+  color:$color-title;
+}
+body, html{
+    padding: 0;
+    margin: 0;
+}
+body *{
+    box-sizing: border-box;
+}
+header{
+    background: #dedede;
+    padding: 20px;
+}
